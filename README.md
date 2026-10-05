@@ -1,6 +1,5 @@
 # Arabic-Language-Coach
 
-# Arabic Language Coach – Technical Project Overview
 
 Arabic Language Coach is an AI-powered bilingual chatbot developed to help Arabic-speaking learners improve their English through interactive conversations. The system provides real-time corrections and explains mistakes in Arabic, creating a more effective and accessible learning experience.
 
